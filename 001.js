@@ -4,9 +4,9 @@ let hasHobbies = true;
 
 function summarizeUser(userName, userAge, userHasHobby) {
   return (
-    "name " +
+    "Name " +
     userName +
-    ", age is " +
+    ", Age is " +
     userAge +
     " and the user has hobbies: " +
     userHasHobby
